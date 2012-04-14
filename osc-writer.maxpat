@@ -390,6 +390,11 @@
 								"box" : 								{
 									"color" : [ 0.8, 0.84, 0.28629, 1.0 ],
 									"data" : 									{
+										"/seq/go" : 										{
+											"/go" : 1,
+											"/go/inactive" : 0,
+											"/go/active" : 1
+										}
 
 									}
 ,
