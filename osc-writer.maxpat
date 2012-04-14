@@ -389,6 +389,10 @@
 , 							{
 								"box" : 								{
 									"color" : [ 0.8, 0.84, 0.28629, 1.0 ],
+									"data" : 									{
+
+									}
+,
 									"fontname" : "Arial",
 									"fontsize" : 14.0,
 									"id" : "obj-22",
@@ -699,16 +703,16 @@
 ,
 					"patching_rect" : [ 210.25, 61.0, 65.0, 23.0 ],
 					"saved_object_attributes" : 					{
-						"default_fontsize" : 10.0,
-						"description" : "",
+						"digest" : "",
+						"default_fontname" : "Arial",
 						"fontname" : "Arial",
+						"default_fontsize" : 10.0,
 						"tags" : "",
-						"default_fontface" : 0,
+						"description" : "",
 						"globalpatchername" : "",
 						"fontface" : 0,
 						"fontsize" : 10.0,
-						"digest" : "",
-						"default_fontname" : "Arial"
+						"default_fontface" : 0
 					}
 ,
 					"text" : "p engine"
