@@ -389,6 +389,18 @@
 , 							{
 								"box" : 								{
 									"color" : [ 0.8, 0.84, 0.28629, 1.0 ],
+									"data" : 									{
+										"data" : 										{
+											"/seq/go" : 											{
+												"/go" : 1,
+												"/go/inactive" : 0,
+												"/go/active" : 1
+											}
+
+										}
+
+									}
+,
 									"fontname" : "Arial",
 									"fontsize" : 14.0,
 									"id" : "obj-22",
@@ -699,15 +711,15 @@
 ,
 					"patching_rect" : [ 210.25, 61.0, 65.0, 23.0 ],
 					"saved_object_attributes" : 					{
-						"default_fontface" : 0,
-						"digest" : "",
-						"fontname" : "Arial",
-						"default_fontname" : "Arial",
-						"globalpatchername" : "",
-						"default_fontsize" : 10.0,
 						"description" : "",
+						"globalpatchername" : "",
 						"fontface" : 0,
 						"fontsize" : 10.0,
+						"default_fontface" : 0,
+						"digest" : "",
+						"default_fontname" : "Arial",
+						"fontname" : "Arial",
+						"default_fontsize" : 10.0,
 						"tags" : ""
 					}
 ,
