@@ -7,7 +7,7 @@
 			"revision" : 4
 		}
 ,
-		"rect" : [ 2.0, 44.0, 549.0, 838.0 ],
+		"rect" : [ 0.0, 44.0, 854.0, 401.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -36,8 +36,8 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 399.0, 31.0, 47.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 414.0, 30.0, 47.0, 20.0 ],
-					"text" : "v 0.1.0"
+					"presentation_rect" : [ 572.0, 41.0, 37.0, 20.0 ],
+					"text" : "v 0.1"
 				}
 
 			}
@@ -52,7 +52,7 @@
 					"outlettype" : [ "bang", "bang", "", "int" ],
 					"patching_rect" : [ 298.0, 3.0, 148.0, 35.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 298.0, 3.0, 148.0, 35.0 ]
+					"presentation_rect" : [ 446.0, 12.0, 163.0, 35.0 ]
 				}
 
 			}
@@ -389,15 +389,6 @@
 , 							{
 								"box" : 								{
 									"color" : [ 0.8, 0.84, 0.28629, 1.0 ],
-									"data" : 									{
-										"/seq/go" : 										{
-											"/go" : 1,
-											"/go/inactive" : 0,
-											"/go/active" : 1
-										}
-
-									}
-,
 									"fontname" : "Arial",
 									"fontsize" : 14.0,
 									"id" : "obj-22",
@@ -708,16 +699,16 @@
 ,
 					"patching_rect" : [ 210.25, 61.0, 65.0, 23.0 ],
 					"saved_object_attributes" : 					{
+						"default_fontface" : 0,
 						"digest" : "",
-						"default_fontname" : "Arial",
 						"fontname" : "Arial",
-						"default_fontsize" : 10.0,
-						"tags" : "",
-						"description" : "",
+						"default_fontname" : "Arial",
 						"globalpatchername" : "",
+						"default_fontsize" : 10.0,
+						"description" : "",
 						"fontface" : 0,
 						"fontsize" : 10.0,
-						"default_fontface" : 0
+						"tags" : ""
 					}
 ,
 					"text" : "p engine"
@@ -748,7 +739,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 138.333344, 722.0, 370.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 97.0, 697.0, 370.0, 20.0 ],
+					"presentation_rect" : [ 456.0, 250.5, 370.0, 20.0 ],
 					"text" : "add a UI to import t JSON mapping  file"
 				}
 
@@ -763,7 +754,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 138.333344, 702.0, 370.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 97.0, 677.0, 370.0, 20.0 ],
+					"presentation_rect" : [ 456.0, 230.5, 370.0, 20.0 ],
 					"text" : "add a UI to export JSON mapping  file"
 				}
 
@@ -778,7 +769,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 138.333344, 682.0, 370.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 97.0, 657.0, 370.0, 20.0 ],
+					"presentation_rect" : [ 456.0, 210.5, 370.0, 20.0 ],
 					"text" : "add a UI to change mapping"
 				}
 
@@ -793,7 +784,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 138.333344, 662.0, 370.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 97.0, 637.0, 370.0, 20.0 ],
+					"presentation_rect" : [ 456.0, 190.5, 370.0, 20.0 ],
 					"text" : "add a UI to change UDP port & IP address for outcoming messages"
 				}
 
@@ -808,7 +799,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 138.333344, 642.0, 291.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 97.0, 617.0, 291.0, 20.0 ],
+					"presentation_rect" : [ 456.0, 170.5, 291.0, 20.0 ],
 					"text" : "add a UI to change UDP port for incoming messages"
 				}
 
@@ -823,7 +814,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 67.333344, 634.0, 55.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 26.0, 609.0, 55.0, 20.0 ],
+					"presentation_rect" : [ 462.0, 140.0, 55.0, 20.0 ],
 					"text" : "TODO : "
 				}
 
@@ -838,7 +829,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 67.333344, 614.0, 140.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 26.0, 589.0, 140.0, 20.0 ],
+					"presentation_rect" : [ 462.0, 120.0, 140.0, 20.0 ],
 					"text" : "a general osc remapper."
 				}
 
@@ -865,7 +856,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 11.0, 99.0, 428.0, 481.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 26.0, 89.0, 428.0, 481.0 ]
+					"presentation_rect" : [ 11.0, 21.0, 428.0, 349.5 ]
 				}
 
 			}
@@ -874,15 +865,13 @@
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
 					"id" : "obj-17",
-					"linecount" : 2,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 289.0, 47.0, 157.0, 35.0 ],
+					"patching_rect" : [ 289.0, 47.0, 157.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_linecount" : 2,
-					"presentation_rect" : [ 308.0, 45.0, 153.0, 35.0 ],
-					"text" : "© 2011 - Renaud Rubiano\nrenaud@didascalie.net"
+					"presentation_rect" : [ 508.0, 53.0, 101.0, 20.0 ],
+					"text" : "Renaud Rubiano"
 				}
 
 			}
@@ -896,7 +885,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 298.0, 3.0, 148.0, 35.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 314.0, 4.0, 148.0, 35.0 ],
+					"presentation_rect" : [ 462.0, 13.0, 148.0, 35.0 ],
 					"text" : "osc rewriter"
 				}
 
@@ -912,7 +901,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 7.0, 90.0, 439.0, 497.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 22.0, 80.0, 439.0, 497.0 ]
+					"presentation_rect" : [ 7.0, 12.0, 439.0, 365.5 ]
 				}
 
 			}
