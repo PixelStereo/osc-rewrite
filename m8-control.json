@@ -103,6 +103,10 @@
 		"/master/group/crossfader" : 1
 	}
 ,
+	"/md8key/ctrl_layer_hidden/1" : 	{
+		"/layer.1/sw" : 1
+	}
+,
 	"/md8key/ctrl_layer_media/1" : 	{
 		"/layer.1/media" : 1
 	}
@@ -376,11 +380,11 @@
 	}
 ,
 	"/md8key/ctrl_layer_movie_positionOut/1" : 	{
-		"/layer.1/range/out" : 1
+		"/layer.1/loop/out" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_positionIn/1" : 	{
-		"/layer.1/range/in" : 1
+		"/layer.1/loop/in" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_shuttle1/1" : 	{
@@ -388,11 +392,11 @@
 	}
 ,
 	"/md8key/ctrl_layer_movie_shuttle2/1" : 	{
-		"/layer.1/shuttle" : 1
+		"/layer.1/scratch" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_playDirection/1" : 	{
-		"/layer.1/play/mode" : 1
+		"/layer.1/direction" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_loopMode/1" : 	{
@@ -848,11 +852,11 @@
 	}
 ,
 	"/md8key/ctrl_layer_movie_positionOut/2" : 	{
-		"/layer.2/range/out" : 1
+		"/layer.2/loop/out" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_positionIn/2" : 	{
-		"/layer.2/range/in" : 1
+		"/layer.2/loop/in" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_shuttle1/2" : 	{
@@ -860,11 +864,11 @@
 	}
 ,
 	"/md8key/ctrl_layer_movie_shuttle2/2" : 	{
-		"/layer.2/shuttle" : 1
+		"/layer.2/scratch" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_playDirection/2" : 	{
-		"/layer.2/play/mode" : 1
+		"/layer.2/direction" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_loopMode/2" : 	{
@@ -1320,11 +1324,11 @@
 	}
 ,
 	"/md8key/ctrl_layer_movie_positionOut/3" : 	{
-		"/layer.3/range/out" : 1
+		"/layer.3/loop/out" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_positionIn/3" : 	{
-		"/layer.3/range/in" : 1
+		"/layer.3/loop/in" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_shuttle1/3" : 	{
@@ -1332,11 +1336,11 @@
 	}
 ,
 	"/md8key/ctrl_layer_movie_shuttle2/3" : 	{
-		"/layer.3/shuttle" : 1
+		"/layer.3/scratch" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_playDirection/3" : 	{
-		"/layer.3/play/mode" : 1
+		"/layer.3/direction" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_loopMode/3" : 	{
@@ -1792,11 +1796,11 @@
 	}
 ,
 	"/md8key/ctrl_layer_movie_positionOut/4" : 	{
-		"/layer.4/range/out" : 1
+		"/layer.4/loop/out" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_positionIn/4" : 	{
-		"/layer.4/range/in" : 1
+		"/layer.4/loop/in" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_shuttle1/4" : 	{
@@ -1804,11 +1808,11 @@
 	}
 ,
 	"/md8key/ctrl_layer_movie_shuttle2/4" : 	{
-		"/layer.4/shuttle" : 1
+		"/layer.4/scratch" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_playDirection/4" : 	{
-		"/layer.4/play/mode" : 1
+		"/layer.4/direction" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_loopMode/4" : 	{
@@ -2264,11 +2268,11 @@
 	}
 ,
 	"/md8key/ctrl_layer_movie_positionOut/5" : 	{
-		"/layer.5/range/out" : 1
+		"/layer.5/loop/out" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_positionIn/5" : 	{
-		"/layer.5/range/in" : 1
+		"/layer.5/loop/in" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_shuttle1/5" : 	{
@@ -2276,11 +2280,11 @@
 	}
 ,
 	"/md8key/ctrl_layer_movie_shuttle2/5" : 	{
-		"/layer.5/shuttle" : 1
+		"/layer.5/scratch" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_playDirection/5" : 	{
-		"/layer.5/play/mode" : 1
+		"/layer.5/direction" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_loopMode/5" : 	{
@@ -2736,11 +2740,11 @@
 	}
 ,
 	"/md8key/ctrl_layer_movie_positionOut/6" : 	{
-		"/layer.6/range/out" : 1
+		"/layer.6/loop/out" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_positionIn/6" : 	{
-		"/layer.6/range/in" : 1
+		"/layer.6/loop/in" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_shuttle1/6" : 	{
@@ -2748,11 +2752,11 @@
 	}
 ,
 	"/md8key/ctrl_layer_movie_shuttle2/6" : 	{
-		"/layer.6/shuttle" : 1
+		"/layer.6/scratch" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_playDirection/6" : 	{
-		"/layer.6/play/mode" : 1
+		"/layer.6/direction" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_loopMode/6" : 	{
@@ -3208,11 +3212,11 @@
 	}
 ,
 	"/md8key/ctrl_layer_movie_positionOut/7" : 	{
-		"/layer.7/range/out" : 1
+		"/layer.7/loop/out" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_positionIn/7" : 	{
-		"/layer.7/range/in" : 1
+		"/layer.7/loop/in" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_shuttle1/7" : 	{
@@ -3220,11 +3224,11 @@
 	}
 ,
 	"/md8key/ctrl_layer_movie_shuttle2/7" : 	{
-		"/layer.7/shuttle" : 1
+		"/layer.7/scratch" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_playDirection/7" : 	{
-		"/layer.7/play/mode" : 1
+		"/layer.7/direction" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_loopMode/7" : 	{
@@ -3680,11 +3684,11 @@
 	}
 ,
 	"/md8key/ctrl_layer_movie_positionOut/8" : 	{
-		"/layer.8/range/out" : 1
+		"/layer.8/loop/out" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_positionIn/8" : 	{
-		"/layer.8/range/in" : 1
+		"/layer.8/loop/in" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_shuttle1/8" : 	{
@@ -3692,11 +3696,11 @@
 	}
 ,
 	"/md8key/ctrl_layer_movie_shuttle2/8" : 	{
-		"/layer.8/shuttle" : 1
+		"/layer.8/scratch" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_playDirection/8" : 	{
-		"/layer.8/play/mode" : 1
+		"/layer.8/direction" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_loopMode/8" : 	{
@@ -4152,11 +4156,11 @@
 	}
 ,
 	"/md8key/ctrl_layer_movie_positionOut/9" : 	{
-		"/layer.9/range/out" : 1
+		"/layer.9/loop/out" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_positionIn/9" : 	{
-		"/layer.9/range/in" : 1
+		"/layer.9/loop/in" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_shuttle1/9" : 	{
@@ -4164,11 +4168,11 @@
 	}
 ,
 	"/md8key/ctrl_layer_movie_shuttle2/9" : 	{
-		"/layer.9/shuttle" : 1
+		"/layer.9/scratch" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_playDirection/9" : 	{
-		"/layer.9/play/mode" : 1
+		"/layer.9/direction" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_loopMode/9" : 	{
@@ -4624,11 +4628,11 @@
 	}
 ,
 	"/md8key/ctrl_layer_movie_positionOut/10" : 	{
-		"/layer.10/range/out" : 1
+		"/layer.10/loop/out" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_positionIn/10" : 	{
-		"/layer.10/range/in" : 1
+		"/layer.10/loop/in" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_shuttle1/10" : 	{
@@ -4636,11 +4640,11 @@
 	}
 ,
 	"/md8key/ctrl_layer_movie_shuttle2/10" : 	{
-		"/layer.10/shuttle" : 1
+		"/layer.10/scratch" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_playDirection/10" : 	{
-		"/layer.10/play/mode" : 1
+		"/layer.10/direction" : 1
 	}
 ,
 	"/md8key/ctrl_layer_movie_loopMode/10" : 	{
