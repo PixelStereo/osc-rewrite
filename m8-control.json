@@ -104,7 +104,11 @@
 	}
 ,
 	"/md8key/ctrl_layer_hidden/1" : 	{
-		"/layer.1/hide" : 0
+		"/layer.1/hide" : 1
+	}
+,
+	"/md8key/ctrl_layer_blendMode/1" : 	{
+		"/layer.1/blend/mode" : 1
 	}
 ,
 	"/md8key/ctrl_layer_media/1" : 	{
@@ -564,7 +568,7 @@
 	}
 ,
 	"/md8key/ctrl_layer_blendMode/1" : 	{
-		"/layer.1/luma/mode" : 1
+		"/layer.1/blend/mode" : 1
 	}
 ,
 	"/md8key/ctrl_layer_position_y/1" : 	{
@@ -584,7 +588,7 @@
 	}
 ,
 	"/md8key/ctrl_layer_hidden/2" : 	{
-		"/layer.2/hide" : 0
+		"/layer.2/hide" : 1
 	}
 ,
 	"/md8key/ctrl_layer_auto_colorCurve/2" : 	{
@@ -1040,7 +1044,7 @@
 	}
 ,
 	"/md8key/ctrl_layer_blendMode/2" : 	{
-		"/layer.2/luma/mode" : 1
+		"/layer.2/blend/mode" : 1
 	}
 ,
 	"/md8key/ctrl_layer_position_y/2" : 	{
@@ -1060,7 +1064,7 @@
 	}
 ,
 	"/md8key/ctrl_layer_hidden/3" : 	{
-		"/layer.3/hide" : 0
+		"/layer.3/hide" : 1
 	}
 ,
 	"/md8key/ctrl_layer_auto_colorCurve/3" : 	{
@@ -1516,7 +1520,7 @@
 	}
 ,
 	"/md8key/ctrl_layer_blendMode/3" : 	{
-		"/layer.3/luma/mode" : 1
+		"/layer.3/blend/mode" : 1
 	}
 ,
 	"/md8key/ctrl_layer_position_y/3" : 	{
@@ -1536,7 +1540,7 @@
 	}
 ,
 	"/md8key/ctrl_layer_hidden/4" : 	{
-		"/layer.4/hide" : 0
+		"/layer.4/hide" : 1
 	}
 ,
 	"/md8key/ctrl_layer_auto_colorCurve/4" : 	{
@@ -1992,7 +1996,7 @@
 	}
 ,
 	"/md8key/ctrl_layer_blendMode/4" : 	{
-		"/layer.4/luma/mode" : 1
+		"/layer.4/blend/mode" : 1
 	}
 ,
 	"/md8key/ctrl_layer_position_y/4" : 	{
@@ -2012,7 +2016,7 @@
 	}
 ,
 	"/md8key/ctrl_layer_hidden/5" : 	{
-		"/layer.5/hide" : 0
+		"/layer.5/hide" : 1
 	}
 ,
 	"/md8key/ctrl_layer_auto_colorCurve/5" : 	{
@@ -2468,7 +2472,7 @@
 	}
 ,
 	"/md8key/ctrl_layer_blendMode/5" : 	{
-		"/layer.5/luma/mode" : 1
+		"/layer.5/blend/mode" : 1
 	}
 ,
 	"/md8key/ctrl_layer_position_y/5" : 	{
@@ -2488,7 +2492,7 @@
 	}
 ,
 	"/md8key/ctrl_layer_hidden/6" : 	{
-		"/layer.6/hide" : 0
+		"/layer.6/hide" : 1
 	}
 ,
 	"/md8key/ctrl_layer_auto_colorCurve/6" : 	{
@@ -2944,7 +2948,7 @@
 	}
 ,
 	"/md8key/ctrl_layer_blendMode/6" : 	{
-		"/layer.6/luma/mode" : 1
+		"/layer.6/blend/mode" : 1
 	}
 ,
 	"/md8key/ctrl_layer_position_y/6" : 	{
@@ -2964,7 +2968,7 @@
 	}
 ,
 	"/md8key/ctrl_layer_hidden/7" : 	{
-		"/layer.7/hide" : 0
+		"/layer.7/hide" : 1
 	}
 ,
 	"/md8key/ctrl_layer_auto_colorCurve/7" : 	{
@@ -3420,7 +3424,7 @@
 	}
 ,
 	"/md8key/ctrl_layer_blendMode/7" : 	{
-		"/layer.7/luma/mode" : 1
+		"/layer.7/blend/mode" : 1
 	}
 ,
 	"/md8key/ctrl_layer_position_y/7" : 	{
@@ -3440,7 +3444,7 @@
 	}
 ,
 	"/md8key/ctrl_layer_hidden/8" : 	{
-		"/layer.8/hide" : 0
+		"/layer.8/hide" : 1
 	}
 ,
 	"/md8key/ctrl_layer_auto_colorCurve/8" : 	{
@@ -3896,7 +3900,7 @@
 	}
 ,
 	"/md8key/ctrl_layer_blendMode/8" : 	{
-		"/layer.8/luma/mode" : 1
+		"/layer.8/blend/mode" : 1
 	}
 ,
 	"/md8key/ctrl_layer_position_y/8" : 	{
@@ -3916,7 +3920,7 @@
 	}
 ,
 	"/md8key/ctrl_layer_hidden/9" : 	{
-		"/layer.9/hide" : 0
+		"/layer.9/hide" : 1
 	}
 ,
 	"/md8key/ctrl_layer_auto_colorCurve/9" : 	{
@@ -4372,7 +4376,7 @@
 	}
 ,
 	"/md8key/ctrl_layer_blendMode/9" : 	{
-		"/layer.9/luma/mode" : 1
+		"/layer.9/blend/mode" : 1
 	}
 ,
 	"/md8key/ctrl_layer_position_y/9" : 	{
@@ -4392,7 +4396,7 @@
 	}
 ,
 	"/md8key/ctrl_layer_hidden/10" : 	{
-		"/layer.10/hide" : 0
+		"/layer.10/hide" : 1
 	}
 ,
 	"/md8key/ctrl_layer_auto_colorCurve/10" : 	{
@@ -4848,7 +4852,7 @@
 	}
 ,
 	"/md8key/ctrl_layer_blendMode/10" : 	{
-		"/layer.10/luma/mode" : 1
+		"/layer.10/blend/mode" : 1
 	}
 ,
 	"/md8key/ctrl_layer_position_y/10" : 	{
