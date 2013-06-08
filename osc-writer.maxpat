@@ -8,7 +8,7 @@
 			"architecture" : "x64"
 		}
 ,
-		"rect" : [ 0.0, 596.0, 547.0, 178.0 ],
+		"rect" : [ -5.0, 652.0, 509.0, 184.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -18,11 +18,11 @@
 		"gridsize" : [ 15.0, 15.0 ],
 		"gridsnaponopen" : 0,
 		"statusbarvisible" : 2,
-		"toolbarvisible" : 1,
+		"toolbarvisible" : 0,
 		"boxanimatetime" : 200,
 		"imprint" : 0,
-		"enablehscroll" : 1,
-		"enablevscroll" : 1,
+		"enablehscroll" : 0,
+		"enablevscroll" : 0,
 		"devicewidth" : 0.0,
 		"description" : "",
 		"digest" : "",
@@ -136,7 +136,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 456.0, 121.0, 56.0, 24.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 370.0, 120.0, 156.0, 19.0 ],
+					"presentation_rect" : [ 332.5, 120.0, 156.0, 19.0 ],
 					"text" : "Only registered messages",
 					"texton" : "All messages"
 				}
@@ -155,7 +155,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 315.0, 121.0, 56.0, 24.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 370.0, 60.0, 156.0, 19.0 ],
+					"presentation_rect" : [ 332.5, 60.0, 156.0, 19.0 ],
 					"text" : "Only registered messages",
 					"texton" : "All messages"
 				}
@@ -1304,7 +1304,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 790.5, 219.0, 194.0, 33.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 333.5, 142.0, 194.0, 33.0 ],
+					"presentation_rect" : [ 333.5, 142.0, 158.0, 33.0 ],
 					"text" : "127.0.0.1",
 					"textcolor" : [ 0.0, 0.12, 0.0, 0.83 ],
 					"varname" : "ip[1]"
@@ -2346,7 +2346,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 282.5, 202.0, 194.0, 33.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 332.5, 82.0, 194.0, 33.0 ],
+					"presentation_rect" : [ 332.5, 82.0, 158.0, 33.0 ],
 					"text" : "127.0.0.1",
 					"textcolor" : [ 0.0, 0.12, 0.0, 0.83 ],
 					"varname" : "ip"
@@ -6282,7 +6282,6 @@
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 186.583374, 156.0, 114.0, 20.0 ],
-													"presentation_rect" : [ 185.75, 156.0, 0.0, 0.0 ],
 													"text" : "sprintf get %s"
 												}
 
@@ -7423,32 +7422,32 @@
 , 			{
 				"box" : 				{
 					"fontname" : "Helvetica Light Oblique",
-					"fontsize" : 12.0,
+					"fontsize" : 10.0,
 					"frgb" : 0.0,
 					"id" : "obj-17",
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 298.0, 31.0, 102.0, 18.0 ],
+					"patching_rect" : [ 298.0, 31.0, 87.0, 16.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 359.5, 26.5, 102.0, 18.0 ],
+					"presentation_rect" : [ 358.5, 25.5, 87.0, 16.0 ],
 					"text" : "Renaud Rubiano"
 				}
 
 			}
 , 			{
 				"box" : 				{
-					"fontname" : "Arial Gras Italique",
-					"fontsize" : 24.0,
+					"fontname" : "Helvetica Light Oblique",
+					"fontsize" : 20.0,
 					"frgb" : 0.0,
 					"id" : "obj-15",
 					"linecount" : 2,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 298.0, 3.0, 148.0, 63.0 ],
+					"patching_rect" : [ 298.0, 3.0, 111.0, 46.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 359.5, -1.5, 177.0, 35.0 ],
+					"presentation_rect" : [ 358.5, 6.5, 132.0, 26.0 ],
 					"text" : "osc-writer 0.2"
 				}
 
@@ -7464,7 +7463,7 @@
 					"outlettype" : [ "bang", "bang", "", "int" ],
 					"patching_rect" : [ 298.0, 3.0, 148.0, 35.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 359.5, -1.5, 179.0, 35.0 ]
+					"presentation_rect" : [ 358.5, 6.5, 132.0, 26.0 ]
 				}
 
 			}
