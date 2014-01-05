@@ -4,11 +4,11 @@
 		"appversion" : 		{
 			"major" : 6,
 			"minor" : 1,
-			"revision" : 3,
-			"architecture" : "x64"
+			"revision" : 7,
+			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 18.0, 508.0, 509.0, 184.0 ],
+		"rect" : [ 5.0, 269.0, 509.0, 184.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -28,6 +28,34 @@
 		"digest" : "",
 		"tags" : "",
 		"boxes" : [ 			{
+				"box" : 				{
+					"fontname" : "Arial",
+					"fontsize" : 12.0,
+					"id" : "obj-56",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 192.0, 44.0, 100.0, 20.0 ],
+					"saved_object_attributes" : 					{
+						"allwindowsactive" : 0,
+						"audiosupport" : 0,
+						"cantclosetoplevelpatchers" : 1,
+						"database" : 0,
+						"extensions" : 1,
+						"midisupport" : 0,
+						"noloadbangdefeating" : 0,
+						"overdrive" : 0,
+						"preffilename" : "Max 6 Preferences",
+						"searchformissingfiles" : 0,
+						"statusvisible" : 0,
+						"usesearchpath" : 0
+					}
+,
+					"text" : "standalone"
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
@@ -97,8 +125,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 13.0, 10.5, 89.0, 20.0 ],
-					"presentation" : 1,
-					"presentation_rect" : [ 166.0, 59.0, 100.0, 20.0 ],
 					"text" : "loadmess path"
 				}
 
@@ -218,8 +244,8 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 3,
-							"architecture" : "x64"
+							"revision" : 7,
+							"architecture" : "x86"
 						}
 ,
 						"rect" : [ 25.0, 69.0, 1066.0, 882.0 ],
@@ -606,8 +632,8 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 3,
-							"architecture" : "x64"
+							"revision" : 7,
+							"architecture" : "x86"
 						}
 ,
 						"rect" : [ 754.0, 164.0, 397.0, 407.0 ],
@@ -884,8 +910,8 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 3,
-							"architecture" : "x64"
+							"revision" : 7,
+							"architecture" : "x86"
 						}
 ,
 						"rect" : [ 514.0, 304.0, 640.0, 480.0 ],
@@ -1416,21 +1442,6 @@
 			}
 , 			{
 				"box" : 				{
-					"color" : [ 0.082353, 0.25098, 0.431373, 1.0 ],
-					"fontname" : "Arial",
-					"fontsize" : 9.0,
-					"id" : "obj-56",
-					"maxclass" : "newobj",
-					"numinlets" : 1,
-					"numoutlets" : 2,
-					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 56.5, 403.0, 98.0, 17.0 ],
-					"text" : "var /oscsend.1/print"
-				}
-
-			}
-, 			{
-				"box" : 				{
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
 					"id" : "obj-37",
@@ -1459,7 +1470,7 @@
 					"patching_rect" : [ 382.5, 360.0, 100.0, 20.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 6.0, 6.5, 91.5, 20.0 ],
-					"text" : "open"
+					"text" : "read"
 				}
 
 			}
@@ -1648,8 +1659,8 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 3,
-							"architecture" : "x64"
+							"revision" : 7,
+							"architecture" : "x86"
 						}
 ,
 						"rect" : [ 754.0, 164.0, 397.0, 407.0 ],
@@ -1926,8 +1937,8 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 3,
-							"architecture" : "x64"
+							"revision" : 7,
+							"architecture" : "x86"
 						}
 ,
 						"rect" : [ 514.0, 304.0, 640.0, 480.0 ],
@@ -2497,8 +2508,8 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 3,
-							"architecture" : "x64"
+							"revision" : 7,
+							"architecture" : "x86"
 						}
 ,
 						"rect" : [ 218.0, 469.0, 459.0, 395.0 ],
@@ -2548,8 +2559,8 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 3,
-											"architecture" : "x64"
+											"revision" : 7,
+											"architecture" : "x86"
 										}
 ,
 										"rect" : [ 830.0, 141.0, 436.0, 661.0 ],
@@ -2596,8 +2607,8 @@
 														"appversion" : 														{
 															"major" : 6,
 															"minor" : 1,
-															"revision" : 3,
-															"architecture" : "x64"
+															"revision" : 7,
+															"architecture" : "x86"
 														}
 ,
 														"rect" : [ 50.0, 94.0, 640.0, 480.0 ],
@@ -3834,8 +3845,8 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 3,
-											"architecture" : "x64"
+											"revision" : 7,
+											"architecture" : "x86"
 										}
 ,
 										"rect" : [ 25.0, 69.0, 382.0, 572.0 ],
@@ -4215,7 +4226,7 @@
 													"destination" : [ "obj-18", 1 ],
 													"disabled" : 0,
 													"hidden" : 0,
-													"midpoints" : [ 40.5, 300.0, 279.194504, 300.0 ],
+													"midpoints" : [ 40.5, 300.0, 279.194519, 300.0 ],
 													"source" : [ "obj-1", 0 ]
 												}
 
@@ -4563,8 +4574,8 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 3,
-											"architecture" : "x64"
+											"revision" : 7,
+											"architecture" : "x86"
 										}
 ,
 										"rect" : [ 25.0, 69.0, 389.0, 400.0 ],
@@ -4945,8 +4956,8 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 3,
-											"architecture" : "x64"
+											"revision" : 7,
+											"architecture" : "x86"
 										}
 ,
 										"rect" : [ 25.0, 69.0, 640.0, 480.0 ],
@@ -5399,8 +5410,8 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 3,
-											"architecture" : "x64"
+											"revision" : 7,
+											"architecture" : "x86"
 										}
 ,
 										"rect" : [ 25.0, 69.0, 326.0, 309.0 ],
@@ -5781,8 +5792,8 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 3,
-											"architecture" : "x64"
+											"revision" : 7,
+											"architecture" : "x86"
 										}
 ,
 										"rect" : [ 25.0, 69.0, 401.0, 363.0 ],
@@ -6235,8 +6246,8 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 3,
-											"architecture" : "x64"
+											"revision" : 7,
+											"architecture" : "x86"
 										}
 ,
 										"rect" : [ 435.0, 104.0, 590.0, 722.0 ],
@@ -7430,7 +7441,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 298.0, 31.0, 87.0, 16.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 358.5, 25.5, 87.0, 16.0 ],
+					"presentation_rect" : [ 358.5, 32.5, 87.0, 16.0 ],
 					"text" : "Renaud Rubiano"
 				}
 
@@ -7441,11 +7452,10 @@
 					"fontsize" : 20.0,
 					"frgb" : 0.0,
 					"id" : "obj-15",
-					"linecount" : 2,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 298.0, 3.0, 111.0, 46.0 ],
+					"patching_rect" : [ 298.0, 3.0, 132.0, 26.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 358.5, 6.5, 132.0, 26.0 ],
 					"text" : "osc-writer 0.2"
@@ -7461,7 +7471,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 4,
 					"outlettype" : [ "bang", "bang", "", "int" ],
-					"patching_rect" : [ 298.0, 3.0, 148.0, 35.0 ],
+					"patching_rect" : [ 298.0, 3.0, 132.0, 26.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 358.5, 6.5, 132.0, 26.0 ]
 				}
