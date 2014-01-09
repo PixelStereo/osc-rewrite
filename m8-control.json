@@ -479,6 +479,22 @@
 		"/layer.1/rotate/x" : 1
 	}
 ,
+	"/md8key/ctrl_layer_pixelFX_saturationOn/1" : 	{
+		"/layer.1/sat/enable" : 1
+	}
+,
+	"/md8key/ctrl_layer_pixelFX_saturationLevel/1" : 	{
+		"/layer.1/sat/level" : 1
+	}
+,
+	"/md8key/ctrl_layer_pixelFX_saturationBoost/1" : 	{
+		"/layer.1/sat/boost" : 1
+	}
+,
+	"/md8key/ctrl_layer_pixelFX_saturationInverse/1" : 	{
+		"/layer.1/sat/invert" : 1
+	}
+,
 	"/md8key/ctrl_layer_pixelFX_noiseOn/1" : 	{
 		"/layer.1/noise/sw" : 1
 	}
@@ -521,22 +537,6 @@
 ,
 	"/md8key/ctrl_layer_pixelFX_blurLevel/1" : 	{
 		"/layer.1/blur" : 1
-	}
-,
-	"/md8key/ctrl_layer_pixelFX_saturationOn/1" : 	{
-		"/layer.1/sa/sw" : 1
-	}
-,
-	"/md8key/ctrl_layer_pixelFX_saturationInverse/1" : 	{
-		"/layer.1/sa/inv" : 1
-	}
-,
-	"/md8key/ctrl_layer_pixelFX_saturationBoost/1" : 	{
-		"/layer.1/sa/boost" : 1
-	}
-,
-	"/md8key/ctrl_layer_pixelFX_saturationLevel/1" : 	{
-		"/layer.1/sa" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_contrastOn/1" : 	{
@@ -1000,19 +1000,19 @@
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationOn/2" : 	{
-		"/layer.2/sa/sw" : 1
+		"/layer.2/sat/enable" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationInverse/2" : 	{
-		"/layer.2/sa/inv" : 1
+		"/layer.2/sat/invert" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationBoost/2" : 	{
-		"/layer.2/sa/boost" : 1
+		"/layer.2/sat/boost" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationLevel/2" : 	{
-		"/layer.2/sa" : 1
+		"/layer.2/sat/level" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_contrastOn/2" : 	{
@@ -1476,19 +1476,19 @@
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationOn/3" : 	{
-		"/layer.3/sa/sw" : 1
+		"/layer.3/sat/enable" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationInverse/3" : 	{
-		"/layer.3/sa/inv" : 1
+		"/layer.3/sat/invert" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationBoost/3" : 	{
-		"/layer.3/sa/boost" : 1
+		"/layer.3/sat/boost" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationLevel/3" : 	{
-		"/layer.3/sa" : 1
+		"/layer.3/sat/level" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_contrastOn/3" : 	{
@@ -1952,19 +1952,19 @@
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationOn/4" : 	{
-		"/layer.4/sa/sw" : 1
+		"/layer.4/sat/enable" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationInverse/4" : 	{
-		"/layer.4/sa/inv" : 1
+		"/layer.4/sat/invert" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationBoost/4" : 	{
-		"/layer.4/sa/boost" : 1
+		"/layer.4/sat/boost" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationLevel/4" : 	{
-		"/layer.4/sa" : 1
+		"/layer.4/sat/level" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_contrastOn/4" : 	{
@@ -2428,19 +2428,19 @@
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationOn/5" : 	{
-		"/layer.5/sa/sw" : 1
+		"/layer.5/sat/enable" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationInverse/5" : 	{
-		"/layer.5/sa/inv" : 1
+		"/layer.5/sat/invert" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationBoost/5" : 	{
-		"/layer.5/sa/boost" : 1
+		"/layer.5/sat/boost" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationLevel/5" : 	{
-		"/layer.5/sa" : 1
+		"/layer.5/sat/level" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_contrastOn/5" : 	{
@@ -2904,19 +2904,19 @@
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationOn/6" : 	{
-		"/layer.6/sa/sw" : 1
+		"/layer.6/sat/enable" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationInverse/6" : 	{
-		"/layer.6/sa/inv" : 1
+		"/layer.6/sat/invert" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationBoost/6" : 	{
-		"/layer.6/sa/boost" : 1
+		"/layer.6/sat/boost" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationLevel/6" : 	{
-		"/layer.6/sa" : 1
+		"/layer.6/sat/level" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_contrastOn/6" : 	{
@@ -3380,19 +3380,19 @@
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationOn/7" : 	{
-		"/layer.7/sa/sw" : 1
+		"/layer.7/sat/enable" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationInverse/7" : 	{
-		"/layer.7/sa/inv" : 1
+		"/layer.7/sat/invert" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationBoost/7" : 	{
-		"/layer.7/sa/boost" : 1
+		"/layer.7/sat/boost" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationLevel/7" : 	{
-		"/layer.7/sa" : 1
+		"/layer.7/sat/level" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_contrastOn/7" : 	{
@@ -3856,19 +3856,19 @@
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationOn/8" : 	{
-		"/layer.8/sa/sw" : 1
+		"/layer.8/sat/enable" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationInverse/8" : 	{
-		"/layer.8/sa/inv" : 1
+		"/layer.8/sat/invert" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationBoost/8" : 	{
-		"/layer.8/sa/boost" : 1
+		"/layer.8/sat/boost" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationLevel/8" : 	{
-		"/layer.8/sa" : 1
+		"/layer.8/sat/level" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_contrastOn/8" : 	{
@@ -4332,19 +4332,19 @@
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationOn/9" : 	{
-		"/layer.9/sa/sw" : 1
+		"/layer.9/sat/enable" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationInverse/9" : 	{
-		"/layer.9/sa/inv" : 1
+		"/layer.9/sat/invert" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationBoost/9" : 	{
-		"/layer.9/sa/boost" : 1
+		"/layer.9/sat/boost" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationLevel/9" : 	{
-		"/layer.9/sa" : 1
+		"/layer.9/sat/level" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_contrastOn/9" : 	{
@@ -4808,19 +4808,19 @@
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationOn/10" : 	{
-		"/layer.10/sa/sw" : 1
+		"/layer.10/sat/enable" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationInverse/10" : 	{
-		"/layer.10/sa/inv" : 1
+		"/layer.10/sat/invert" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationBoost/10" : 	{
-		"/layer.10/sa/boost" : 1
+		"/layer.10/sat/boost" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_saturationLevel/10" : 	{
-		"/layer.10/sa" : 1
+		"/layer.10/sat/level" : 1
 	}
 ,
 	"/md8key/ctrl_layer_pixelFX_contrastOn/10" : 	{
