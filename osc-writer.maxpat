@@ -2202,6 +2202,22 @@
 						"showontab" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
+									"fontname" : "Arial",
+									"fontsize" : 18.0,
+									"id" : "obj-24",
+									"maxclass" : "message",
+									"numinlets" : 2,
+									"numoutlets" : 1,
+									"outlettype" : [ "" ],
+									"patching_rect" : [ 259.5, 21.846802, 51.0, 25.0 ],
+									"presentation" : 1,
+									"presentation_rect" : [ 220.0, 56.0, 69.0, 25.0 ],
+									"text" : "clear"
+								}
+
+							}
+, 							{
+								"box" : 								{
 									"fontname" : "Helvetica",
 									"fontsize" : 12.0,
 									"frgb" : 0.0,
@@ -2228,7 +2244,7 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 15.0, 84.5, 95.0, 90.0 ],
+									"patching_rect" : [ 15.0, 84.5, 96.0, 90.0 ],
 									"presentation" : 1,
 									"presentation_rect" : [ 1.5, 88.0, 474.0, 18.0 ],
 									"text" : "Messages received on this port are processed by map and are send to the port bellow",
@@ -2268,7 +2284,7 @@
 									"fontname" : "Arial",
 									"fontsize" : 12.0,
 									"id" : "obj-58",
-									"items" : [ "<choose", "a", "file", "to", "load>", ",", "dlight-seqcon.json", ",", "m8-control.json", ",", "mapping.json" ],
+									"items" : "<empty>",
 									"maxclass" : "umenu",
 									"numinlets" : 1,
 									"numoutlets" : 3,
@@ -4553,6 +4569,15 @@
 									"disabled" : 0,
 									"hidden" : 0,
 									"source" : [ "obj-23", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
+									"destination" : [ "obj-58", 0 ],
+									"disabled" : 0,
+									"hidden" : 0,
+									"source" : [ "obj-24", 0 ]
 								}
 
 							}
@@ -9728,8 +9753,7 @@
 																	"numinlets" : 0,
 																	"numoutlets" : 1,
 																	"outlettype" : [ "bang" ],
-																	"patching_rect" : [ 140.050003, 10.0, 25.0, 25.0 ],
-																	"presentation_rect" : [ 140.050003, 10.0, 0.0, 0.0 ]
+																	"patching_rect" : [ 140.050003, 10.0, 25.0, 25.0 ]
 																}
 
 															}
