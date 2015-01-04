@@ -1,6 +1,39 @@
 {
-		"/seq/go" : 		{
-			"/go" : [1, 0, 10, 10, 0]
+	"data" : 	{
+		"seq" : 		{
+			"attributes" : 			{
+				"rename" : "zobi"
+			}
+,
+			"data" : 			{
+				"go" : 				{
+					"attributes" : 					{
+						"active" : 1,
+						"map" : [ 0, 255, 0, 1 ],
+						"clip" : "none",
+						"rename" : "toptop"
+					}
+
+				}
+,
+				"index" : 				{
+					"attributes" : 					{
+						"map" : [ 0, 255, 0, 1 ],
+						"clip" : "high"
+					}
+
+				}
+
+			}
+
 		}
 
 	}
+,
+	"attributes" : 	{
+		"author" : "Renaud Rubiano",
+		"version" : 0.3,
+		"name" : "osc-writer"
+	}
+
+}
