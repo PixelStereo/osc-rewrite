@@ -2,7 +2,10 @@
 	"data" : 	{
 		"seq" : 		{
 			"attributes" : 			{
-				"rename" : "zobi"
+				"rename" : "zobi",
+				"active" : 1,
+				"map" : [ 0, 1, 0, 255 ],
+				"scale" : 2
 			}
 ,
 			"data" : 			{
@@ -12,7 +15,7 @@
 						"map" : [ 0, 1, 0, 255 ],
 						"clip" : "none",
 						"rename" : "toptop",
-						"scale" : 10
+						"scale" : 1
 					}
 
 				}
@@ -21,8 +24,7 @@
 					"attributes" : 					{
 						"map" : [ 0, 1, 0, 127 ],
 						"clip" : "none",
-						"active" : 1,
-						"scale" : 0.1
+						"active" : 1
 					}
 
 				}
