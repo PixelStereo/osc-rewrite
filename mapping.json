@@ -9,17 +9,20 @@
 				"go" : 				{
 					"attributes" : 					{
 						"active" : 1,
-						"map" : [ 0, 255, 0, 1 ],
+						"map" : [ 0, 1, 0, 255 ],
 						"clip" : "none",
-						"rename" : "toptop"
+						"rename" : "toptop",
+						"scale" : 10
 					}
 
 				}
 ,
 				"index" : 				{
 					"attributes" : 					{
-						"map" : [ 0, 255, 0, 1 ],
-						"clip" : "high"
+						"map" : [ 0, 1, 0, 127 ],
+						"clip" : "none",
+						"active" : 1,
+						"scale" : 0.1
 					}
 
 				}
