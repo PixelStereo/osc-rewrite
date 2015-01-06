@@ -24,7 +24,8 @@
 					"attributes" : 					{
 						"map" : [ 0, 1, 0, 127 ],
 						"clip" : "none",
-						"active" : 1
+						"active" : 1,
+						"rename" : "camera"
 					}
 
 				}
