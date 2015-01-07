@@ -13,9 +13,9 @@
 					"attributes" : 					{
 						"active" : 1,
 						"map" : [ 0, 1, 0, 255 ],
-						"clip" : "none",
+						"clip" : "low",
 						"rename" : "toptop",
-						"scale" : 1
+						"scale" : 100
 					}
 
 				}
@@ -23,9 +23,33 @@
 				"index" : 				{
 					"attributes" : 					{
 						"map" : [ 0, 1, 0, 127 ],
-						"clip" : "none",
+						"clip" : "high",
 						"active" : 1,
-						"rename" : "camera"
+						"rename" : "camera",
+						"scale" : 0.2
+					}
+
+				}
+
+			}
+
+		}
+,
+		"popo" : 		{
+			"attributes" : 			{
+
+			}
+,
+			"data" : 			{
+				"po" : 				{
+					"data" : 					{
+						"p" : 						{
+							"attributes" : 							{
+								"rename" : "merde"
+							}
+
+						}
+
 					}
 
 				}
