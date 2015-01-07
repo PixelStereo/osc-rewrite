@@ -8,7 +8,7 @@
 			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 136.0, 479.0, 940.0, 433.0 ],
+		"rect" : [ 136.0, 479.0, 839.0, 262.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -37,8 +37,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "float", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 831.0, 150.0, 50.0, 20.0 ],
-					"presentation_rect" : [ 831.0, 150.0, 0.0, 0.0 ]
+					"patching_rect" : [ 515.0, 28.0, 50.0, 20.0 ]
 				}
 
 			}
@@ -50,8 +49,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 798.0, 150.0, 20.0, 20.0 ],
-					"presentation_rect" : [ 798.0, 150.0, 0.0, 0.0 ]
+					"patching_rect" : [ 482.0, 28.0, 20.0, 20.0 ]
 				}
 
 			}
@@ -64,9 +62,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 798.0, 188.0, 109.0, 18.0 ],
-					"presentation_rect" : [ 798.0, 188.0, 0.0, 0.0 ],
-					"text" : "/popo/po/merde $1"
+					"patching_rect" : [ 482.0, 66.0, 109.0, 18.0 ],
+					"text" : "/popo/aa/merde $1"
 				}
 
 			}
@@ -80,7 +77,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "float", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 713.0, 150.0, 50.0, 20.0 ]
+					"patching_rect" : [ 397.0, 28.0, 50.0, 20.0 ]
 				}
 
 			}
@@ -92,8 +89,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 680.0, 150.0, 20.0, 20.0 ],
-					"presentation_rect" : [ 680.0, 149.0, 0.0, 0.0 ]
+					"patching_rect" : [ 364.0, 28.0, 20.0, 20.0 ]
 				}
 
 			}
@@ -106,8 +102,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 680.0, 188.0, 94.0, 18.0 ],
-					"presentation_rect" : [ 680.0, 187.0, 0.0, 0.0 ],
+					"patching_rect" : [ 364.0, 66.0, 94.0, 18.0 ],
 					"text" : "/zobi/camera $1"
 				}
 
@@ -349,7 +344,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 680.0, 222.5, 145.0, 20.0 ],
+					"patching_rect" : [ 364.0, 100.5, 145.0, 20.0 ],
 					"text" : "udpsend localhost 33333"
 				}
 

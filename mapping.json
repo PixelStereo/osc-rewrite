@@ -2,7 +2,7 @@
 	"data" : 	{
 		"seq" : 		{
 			"attributes" : 			{
-				"rename" : "test",
+				"rename" : "zobi",
 				"active" : 1,
 				"map" : [ 0, 1, 0, 255 ],
 				"scale" : 2,
