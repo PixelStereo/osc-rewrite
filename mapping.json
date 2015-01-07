@@ -2,10 +2,11 @@
 	"data" : 	{
 		"seq" : 		{
 			"attributes" : 			{
-				"rename" : "zobi",
+				"rename" : "test",
 				"active" : 1,
 				"map" : [ 0, 1, 0, 255 ],
-				"scale" : 2
+				"scale" : 2,
+				"clip" : "both"
 			}
 ,
 			"data" : 			{
@@ -14,7 +15,7 @@
 						"active" : 1,
 						"map" : [ 0, 1, 0, 255 ],
 						"clip" : "low",
-						"rename" : "toptop",
+						"rename" : "testy",
 						"scale" : 100
 					}
 
@@ -51,6 +52,10 @@
 						}
 
 					}
+,
+					"attributes" : 					{
+						"rename" : "aa"
+					}
 
 				}
 
@@ -64,6 +69,10 @@
 		"author" : "Renaud Rubiano",
 		"version" : 0.3,
 		"name" : "osc-writer"
+	}
+,
+	"node" : 	{
+		"rename" : "test"
 	}
 
 }
