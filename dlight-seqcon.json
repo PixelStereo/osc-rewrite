@@ -1,6 +1,18 @@
 {
-		"/seq/go" : 		{
-			"/go" : 1
+	"data" : 	{
+		"seq" : 		{
+			"data" : 			{
+				"go" : 				{
+					"attributes" : 					{
+						"rename" : "/to"
+					}
+
+				}
+
+			}
+
 		}
 
 	}
+
+}
