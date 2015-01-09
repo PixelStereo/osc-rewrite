@@ -70,9 +70,5 @@
 		"version" : 0.3,
 		"name" : "osc-writer"
 	}
-,
-	"node" : 	{
-		"rename" : "test"
-	}
 
 }
